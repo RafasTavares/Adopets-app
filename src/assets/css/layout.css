@@ -5,3 +5,8 @@
 .rc-steps-dot .rc-steps-item-tail{
     margin: 0px !important;
 }
+
+.rc-steps {
+     position:absolute !important;
+    bottom:0 !important;
+   }
