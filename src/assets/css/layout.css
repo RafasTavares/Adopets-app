@@ -1,0 +1,7 @@
+.rc-steps-item-finish .rc-steps-item-tail:after {
+    background-color: green !important;
+}
+
+.rc-steps-dot .rc-steps-item-tail{
+    margin: 0px !important;
+}
